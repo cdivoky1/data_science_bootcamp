@@ -1,2 +1,4 @@
 # data_science_bootcamp
-Summer_2022
+Section: Summer_2022
+Course: BSGP 7030
+Name: Cameron Divoky
